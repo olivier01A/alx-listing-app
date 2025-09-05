@@ -1,0 +1,7 @@
+public/
+  assets/
+    images/
+    icons/
+
+<img src="/assets/images/property1.jpg" alt="Property" />
+<img src="/assets/icons/heart.svg" alt="Like" />
